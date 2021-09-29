@@ -1,1 +1,1 @@
-web: gunicorn itechacademia.wsgi
+web: gunicorn department_project.wsgi
