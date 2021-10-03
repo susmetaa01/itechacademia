@@ -25,7 +25,7 @@ SECRET_KEY = 'c868gtffl3gy&5c4t1d@+5y$ail%!66v__$id(cr)stzg_gdim'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','itechacademia.herokuapp.com']
 
 
 # Application definition
